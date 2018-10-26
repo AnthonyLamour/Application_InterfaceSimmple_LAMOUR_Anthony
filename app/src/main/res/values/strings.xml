@@ -10,4 +10,6 @@
     <string name="HTML">HTML</string>
     <string name="CSS">CSS</string>
     <string name="XML">XML</string>
+    <string name="HeureDeJeu">Combien de temps jouez vous par jours ?</string>
+    <string name="ButText">Raz</string>
 </resources>
