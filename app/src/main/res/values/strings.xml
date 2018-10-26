@@ -1,4 +1,13 @@
 <resources>
-    <string name="app_name">ApplicationInterfaceSimpleLAMOURAnthony</string>
+    <string name="app_name">Application d\'espionnage LAMOUR Anthony</string>
     <string name="action_settings">Settings</string>
+    <string name="date">Date</string>
+    <string name="NomText">Donnez moi votre NOM</string>
+    <string name="Prenom">Donnez moi votre Prénom</string>
+    <string name="Email">adresse mail a spammer</string>
+    <string name="H">Homme</string>
+    <string name="F">Femme</string>
+    <string name="HTML">HTML</string>
+    <string name="CSS">CSS</string>
+    <string name="XML">XML</string>
 </resources>
